@@ -1,4 +1,4 @@
-## Homework 4 wordcount in Pig
+## Homework 5 wordcount in Pig
 
 * [Apache Pig](https://pig.apache.org)
 
